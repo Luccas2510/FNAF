@@ -20,7 +20,8 @@ h3,
 h4,
 p,
 a,
-table {
+table,
+ul {
     font-family: OCR A Std, monospace
 }
 
@@ -101,4 +102,7 @@ table {
     align-items: center;
     justify-content: center;
     margin-left: 440px;
+}
+ul{
+    color: darkcyan
 }
