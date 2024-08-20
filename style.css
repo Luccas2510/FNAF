@@ -14,6 +14,20 @@ h1 {
     text-shadow: 0 0 3px red, 0 0 5px blue;
 }
 
+h1,
+h2,
+h3,
+h4,
+p,
+a,
+table {
+    font-family: OCR A Std, monospace
+}
+
+h2 {
+    border-bottom: double 4px darkturquoise;
+}
+
 h2,
 h3 {
     text-shadow: 0 0 3px red, 0 0 5px blue;
