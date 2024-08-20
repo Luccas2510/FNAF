@@ -1,0 +1,90 @@
+body {
+    margin: 0px 120px 0px 120px;
+    background-image: url(../FNAF/imagens/fnaf\ art.jpg);
+}
+
+.fundo {
+    background-color: gold;
+    border-radius: 50px;
+    align-items: center;
+}
+
+h1 {
+    margin: 0px 50px 0px 50px;
+    text-shadow: 0 0 3px red, 0 0 5px blue;
+}
+
+h2,
+h3 {
+    text-shadow: 0 0 3px red, 0 0 5px blue;
+}
+
+a {
+    color: darkred;
+    margin-left: 70px;
+}
+
+h4 {
+    color: darkturquoise;
+    margin-left: 70px;
+    text-shadow: 0 0 3px purple, 0 0 5px purple;
+}
+
+audio {
+    margin: 0px 50px 0px 50px;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+    -moz-box-shadow: 2px 2px 4px 0px purple;
+    -webkit-box-shadow: 2px 2px 4px 0px purple;
+    box-shadow: 2px 2px 4px 0px purple;
+    -moz-border-radius: 7px 7px 7px 7px;
+    -webkit-border-radius: 7px 7px 7px 7px;
+    border-radius: 7px 7px 7px 7px;
+}
+
+audio:hover,
+audio:focus,
+audio:active {
+    margin: 0px 50px 0px 50px;
+    -webkit-box-shadow: 15px 15px 20px purple;
+    -moz-box-shadow: 15px 15px 20px purple;
+    box-shadow: 15px 15px 20px purple;
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+video {
+    align-items: center;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+    -moz-box-shadow: 2px 2px 4px 0px purple;
+    -webkit-box-shadow: 2px 2px 4px 0px purple;
+    box-shadow: 2px 2px 4px 0px purple;
+    -moz-border-radius: 7px 7px 7px 7px;
+    -webkit-border-radius: 7px 7px 7px 7px;
+    border-radius: 7px 7px 7px 7px;
+}
+
+.pizza {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    margin-right: 30px;
+}
+
+.urso {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+table {
+    align-items: center;
+    justify-content: center;
+    margin-left: 440px;
+}
